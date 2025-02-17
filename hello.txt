@@ -14,8 +14,3 @@ helllo world!
 helllo world!
 helllo world!    master test
 helllo world!    hot-fix test
-helllo world!
-helllo world!
-helllo world!
-helllo world!
-helllo world!
